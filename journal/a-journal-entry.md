@@ -5,8 +5,8 @@ author: Nichlas W. Andersen
 excerpt: About Page for Maggie
 
 ---
-Maggie likes long walks on the beach and design. 🎨
+Maggie likes long walks on the beach and design. 🎨 She loves her husband Tim who is a computer wizard.
 
 This is a test.
 
-Test edit. 
+Test edit.
