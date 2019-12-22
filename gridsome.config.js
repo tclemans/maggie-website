@@ -3,10 +3,10 @@
 
 module.exports = {
   siteName: "Portfolio",
-  siteUrl: `https://www.itsnwa.com`,
+  siteUrl: `https://www.margaretdekker.netlify.com`,
   host: "0.0.0.0",
   titleTemplate: "%s - NWA",
-  siteDescription: "Creative technologist",
+  siteDescription: "Margert Dekker Portfolio",
   plugins: [
     {
       use: "@gridsome/source-filesystem",
